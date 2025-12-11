@@ -50,10 +50,17 @@ Durante a avaliação, o professor gostou tanto da solução que decidiu **usá-
 
 ---
 
-## 📸 Prévia do Projeto
+## 🚀 Destaque do Projeto
 
-*(adicione aqui prints do projeto quando quiser)*
+Este projeto representa um marco importante no meu desenvolvimento como programadora, combinando **lógica, criatividade e domínio das tecnologias base da web**.  
+Desenvolvido de forma 100% individual, ele demonstra minha capacidade de:
 
+- **Planejar** e estruturar uma aplicação interativa  
+- **Implementar soluções funcionais e bem organizadas**  
+- **Criar interfaces limpas, responsivas e intuitivas**  
+- **Aplicar boas práticas de código e versionamento**  
+
+O trabalho chamou a atenção do professor do curso, que decidiu utilizá-lo como **exemplo oficial para apresentar o curso de Desenvolvimento de Sistemas** a novos alunos — destacando a qualidade, o cuidado e o potencial profissional envolvidos na criação.
 ---
 
 ## 🧩 Como Executar
@@ -62,3 +69,4 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
+
