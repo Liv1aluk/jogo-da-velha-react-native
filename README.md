@@ -62,6 +62,18 @@ Desenvolvido de forma 100% individual, ele demonstra minha capacidade de:
 
 O trabalho chamou a atenção do professor do curso, que decidiu utilizá-lo como **exemplo oficial para apresentar o curso de Desenvolvimento de Sistemas** a novos alunos — destacando a qualidade, o cuidado e o potencial profissional envolvidos na criação.
 ---
+## 🌐 Demonstração do Projeto
+
+Veja o jogo funcionando ao vivo!  
+Clique e assista aos vídeos de apresentação:
+
+🎥 **Demonstração 1**  
+👉 https://youtube.com/shorts/M4TZcLxGv_k?feature=share  
+
+🎥 **Demonstração 2**  
+👉 https://youtube.com/shorts/_6OKmABEDqI?feature=share  
+
+> *Os vídeos mostram o jogo em ação, incluindo interações, animações e funcionamento completo.*  
 
 ## 🧩 Como Executar
 
@@ -69,4 +81,5 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
+
 
